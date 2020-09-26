@@ -11,7 +11,7 @@ import os
 import re
 
 
-path = r'D://Research Thesis//Papers//IEEE SAM 2020 Papers'
+path = r'D://Satyam//Papers//IEEE SAM 2020 Papers'
 #direc = os.listdir(path)
 #print(len(direc))
 for zz in (os.listdir(path)):
